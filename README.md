@@ -1,1 +1,1 @@
-# Snake-game-STM32
+# Snake game on STM32
